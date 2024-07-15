@@ -10,6 +10,11 @@
     padding: 10px;
     border-bottom: 2px solid rgb(255, 102, 0);
  }
+ .som{
+    align-items: center;
+    object-fit: contain;
+    margin-left: 100px;
+ }
  .wen{
     background-color: black;
     width: 50px;
@@ -19,3 +24,13 @@
     cursor: pointer;
 
  }
+ .man h2{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    text-align: left;
+    color: rgb(225, 41, 41);
+}
+.orient h2{
+    text-align: center;
+    padding-top: 50px;
+    color: color-mix(in srgb, purple 50%, white 50%);
+}
