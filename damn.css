@@ -11,10 +11,11 @@
     padding: 10px;
     border-bottom: 2px solid rgb(255, 102, 0);
  }
- .som{
+ .som img{
     align-items: center;
     object-fit: contain;
-    margin-left: 100px;
+    
+    width: 1250px;
  }
  .wen{
     background-color: black;
@@ -63,4 +64,37 @@ height: 30px;
       color: rgb(245, 47, 47);
       cursor: pointer;
   }
+  .wim{
+   margin-left: 100px;
+   align-items: center;
+  }
   
+.thin{
+   margin-top: 30px;
+   display: flex;
+   justify-content: space-between;
+}
+.well{
+background-color: rgb(203, 177, 82);
+width: 300PX;
+height: 300PX;
+border-radius: 10PX;
+}
+.well p {
+   color: black;
+}
+
+.fly{
+   background-color: rgb(203, 177, 82);
+   width: 300PX;
+   height: 300PX;
+   border-radius: 10PX;
+   
+}
+.tin{
+   background-color: rgb(203, 177, 82);
+   width: 300PX;
+   height: 300PX;
+   border-radius: 10PX;
+   
+}
