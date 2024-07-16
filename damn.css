@@ -22,15 +22,27 @@
     border-radius: 50%;
     object-fit: cover;
     cursor: pointer;
-
+justify-content: space-between;
+ }
+ .wen button{
+    background-color: blueviolet;
+margin-left: 1150px;
+border-radius: 10px;
+width: 80px;
+height: 30px;
+ }
+ .wen button:hover{
+   background-color: white;
+   border-color: none;
  }
  .man h2{
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
     text-align: left;
     color: rgb(225, 41, 41);
 }
-.orient h2{
+.orient h1{
     text-align: center;
     padding-top: 50px;
-    color: color-mix(in srgb, purple 50%, white 50%);
+    color: red;
+    margin-left: 100px;
 }
