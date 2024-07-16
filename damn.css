@@ -96,5 +96,51 @@ border-radius: 10PX;
    width: 300PX;
    height: 300PX;
    border-radius: 10PX;
-   
+  
+}
+.pic {
+   display: flex;
+   margin-top: 40px;
+}
+.ic {
+   width: 30px;
+   height: 30px;
+margin-left: 150px;
+}
+.im {
+   width: 30px;
+   height: 30px;
+   margin-left: 200px;
+}
+.ig {
+   width: 30px;
+   height: 30px;
+   margin-left: 200px;
+}
+.it {
+   width: 30px;
+   height: 30px;
+   margin-left: 200px;
+}
+.iu {
+   margin-left: 200px;
+   width: 30px;
+   height: 30px;
+margin-right: 200px;
+}
+
+.ord{
+   display: flex;
+   justify-content: space-between;
+}
+.lop{
+   align-items: center;
+   background-color: azure;
+}
+.lam{
+   margin-left: 300px;
+}
+.pim {
+   background-image: url(pictures/doooom.jpeg);
+
 }
